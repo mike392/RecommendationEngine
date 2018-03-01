@@ -1,0 +1,9 @@
+{  
+         "field":"wheel",
+         "type":"enumerable",
+         "possible_values":[  
+            "R15",
+            "R16",
+            "R17"
+         ]
+      }

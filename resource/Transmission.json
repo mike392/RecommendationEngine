@@ -1,0 +1,8 @@
+{  
+         "field":"transmission",
+         "type":"enumerable",
+         "possible_values":[  
+            "АКП",
+            "МКП"
+         ]
+      }
